@@ -1,3 +1,5 @@
+# Ghost
+
 Ghost is a lightweight blogging CMS written in Node.js.
 
 ## Nginx caching configuration

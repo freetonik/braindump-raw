@@ -1,3 +1,5 @@
+# Org Roam
+
 Org roam is an extension to [[Org mode]] inspired by Roam.
 
 ## Community

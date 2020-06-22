@@ -1,3 +1,5 @@
+# LaTeX
+
 ## Useful Tools
 
 -   [Mathpix](https://mathpix.com/) (extracts LaTeX from PDFs)
