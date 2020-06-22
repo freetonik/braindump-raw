@@ -1,6 +1,6 @@
 # Org Roam
 
-Org roam is an extension to [[Org mode]] inspired by Roam.
+Org roam is an extension to [Org mode]({{< ref "Org mode" >}}) inspired by Roam.
 
 ## Community
 -   [Org Roam Forum](https://org-roam.discourse.group/)

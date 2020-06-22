@@ -22,7 +22,7 @@ backlinks:
 	@echo "-----"
 
 wikilinks:
-	./bin/convert_wikilinks_to_refs.sh ./content/notes
+	./bin/convert_wikilinks_to_refs.sh .
 
 publish: all
 	./bin/publish.sh

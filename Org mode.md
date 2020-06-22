@@ -8,6 +8,6 @@
 
 
 ## Backlinks
-* [[Org Roam]]
-	* Org roam is an extension to [[Org mode]] inspired by Roam.
+* [Org Roam]({{< ref "Org Roam" >}})
+	* Org roam is an extension to [Org mode]({{< ref "Org mode" >}}) inspired by Roam.
 
