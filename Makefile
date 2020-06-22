@@ -7,7 +7,7 @@ clean:
 copy:
 	@echo "Copying fresh files..."
 	cp -a ~/Dropbox/Brain/. .
-	rm -rf ./content/notes/.obsidian
+	rm -rf ./.obsidian
 	@echo "Done!"
 	@echo "-----"
 
@@ -25,6 +25,7 @@ wikilinks:
 	./bin/convert_wikilinks_to_refs.sh .
 
 publish: all
+	@echo "Now publishing..."
 	./bin/publish.sh
 	@echo "Done!"
 	@echo "-----"
