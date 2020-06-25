@@ -1,7 +1,7 @@
 # Emacs
 
 ## Cheat sheets
-- ![Cheatsheet-emacs.pdf](./Cheatsheet-emacs.pdf.md)
+- [Cheatsheet-emacs](/notes/attachments/Cheatsheet-emacs.pdf)
 	- https://courses.cs.washington.edu/courses/cse351/16wi/sections/1/Cheatsheet-emacs.pdf
 
 
