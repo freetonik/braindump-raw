@@ -1,4 +1,4 @@
-# Initial Page
+# Initial page
 
 Hi there!
 
