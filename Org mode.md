@@ -1,5 +1,6 @@
 # Org mode
 
+Extension of [Emacs](./Emacs.md).
 
 ## Articles
 
